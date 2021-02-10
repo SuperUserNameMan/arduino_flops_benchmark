@@ -1,9 +1,9 @@
 # arduino_flops_benchmark
-Arduino FLOPS benchmark
+Arduino FLOPS benchmark based on "Linpack Floating Point benchmark"
 
-original source code from : https://gist.github.com/projectgus/8279947
+original port from : https://gist.github.com/projectgus/8279947
 
-I was wondering how an Arduino Nano or MiniEVB Nano would compare to the Top500 supercomputers.
+I was wondering how an Arduino Nano or MiniEVB Nano would compare to the Top500 supercomputers ... 
 
 | optimization level | LGT8F328p @ 32MHz | LGT8F328p @ 16MHz | ATmega328p |
 |:-:|:-:|:-:|:-:|
